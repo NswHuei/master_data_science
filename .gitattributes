@@ -1,2 +1,5 @@
 act_grupal_News_Category_Dataset_v2.json filter=lfs diff=lfs merge=lfs -text
 viajes_filtrados_2022_2023_2024.csv filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
+datos/*.csv filter=lfs diff=lfs merge=lfs -text
+*.txt filter=lfs diff=lfs merge=lfs -text
